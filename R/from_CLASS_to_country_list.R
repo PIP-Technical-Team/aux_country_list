@@ -109,6 +109,15 @@ rg[, pip_region := fifelse(pip_region_code == "OHI",
    ]
 
 
+# Add PCN region temporarilly
+
+rg[,
+   `:=`(
+       pcn_region = pip_region,
+       pcn_region_code = pip_region_code
+     )]
+
+
 janitor::tabyl(rg, region_code, admin_region_code)
 janitor::tabyl(rg, region, pip_region)
 
