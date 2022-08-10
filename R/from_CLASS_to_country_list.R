@@ -49,7 +49,8 @@ byv <-
   c(
     "code",
     "region_SSA",
-    "fcv_current" )
+    "fcv_current",
+    "region_pip")
 
 
 dt <- haven::read_dta(ind) |>
@@ -62,7 +63,7 @@ dt_o <- names(dt)
 dt_n <- gsub("_current", "", dt_o)
 
 setnames(dt, dt_o, dt_n)
-setnames(dt, "region_SSA", "ewa")
+setnames(dt, c("region_SSA", "region_pip"), c("africa_split", "pip_code"))
 
 #   ____________________________________________________________________________
 #   Merge wdi and CLASS                                                     ####
@@ -81,14 +82,14 @@ joyn::merge(dt, wdi,
 # East and West Africa
 
 rg[,
-   ewa_code := fifelse(ewa == "",
+   africa_split_code := fifelse(africa_split == "",
                        admin_region,
-                       ewa)
+                       africa_split)
    ][,
-     ewa := fcase(
-       ewa == "", region,
-       ewa == "AFE", "Eastern and Southern Africa",
-       ewa == "AFW", "Wetern and Central Africa",
+     africa_split := fcase(
+       africa_split == "", region,
+       africa_split == "AFE", "Eastern and Southern Africa",
+       africa_split == "AFW", "Wetern and Central Africa",
        default = ""
      )]
 
@@ -98,6 +99,21 @@ rg[,
    fcv_code := fifelse(fcv == "Yes", "FCVT", "FCVF")
    ][,
      fcv := fifelse(fcv == "Yes", "Fragile", "Not-fragile")]
+
+
+# PIP region
+
+rg[, pip := fifelse(pip_code == "OHI",
+                    yes = "Other High Income Countries",
+                    region)
+   ]
+
+
+janitor::tabyl(rg, region_code, admin_region_code)
+janitor::tabyl(rg, region, pip)
+
+#   ____________________________________________________________________________
+#   Clean and Save                                                    ####
 
 
 setnames(rg, c("code", "country"), c("country_code", "country_name") )
@@ -111,8 +127,6 @@ varn  <- names(rg)[!names(rg) %in% c("country_code", "country_name")] |>
 setcolorder(rg, varn)
 
 
-#   ____________________________________________________________________________
-#   Save                                                                    ####
 
 fwrite(rg, "country_list.csv")
 
