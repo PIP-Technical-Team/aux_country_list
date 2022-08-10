@@ -1,4 +1,4 @@
-country_code,country_name,admin_region,admin_region_code,africa_split,africa_split_code,fcv,fcv_code,income_level,income_level_code,lending_type,lending_type_code,pip,pip_code,region,region_code
+country_code,country_name,admin_region,admin_region_code,africa_split,africa_split_code,fcv,fcv_code,income_level,income_level_code,lending_type,lending_type_code,pip_region,pip_region_code,region,region_code
 ABW,Aruba,,,Latin America & Caribbean,,Not-fragile,FCVF,High income,HIC,Not classified,LNX,Other High Income Countries,OHI,Latin America & Caribbean,LCN
 AFG,Afghanistan,South Asia,SAS,South Asia,South Asia,Fragile,FCVT,Low income,LIC,IDA,IDX,South Asia,SAS,South Asia,SAS
 AGO,Angola,Sub-Saharan Africa (excluding high income),SSA,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Lower middle income,LMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSF

@@ -63,7 +63,7 @@ dt_o <- names(dt)
 dt_n <- gsub("_current", "", dt_o)
 
 setnames(dt, dt_o, dt_n)
-setnames(dt, c("region_SSA", "region_pip"), c("africa_split", "pip_code"))
+setnames(dt, c("region_SSA", "region_pip"), c("africa_split", "pip_region_code"))
 
 #   ____________________________________________________________________________
 #   Merge wdi and CLASS                                                     ####
@@ -103,14 +103,14 @@ rg[,
 
 # PIP region
 
-rg[, pip := fifelse(pip_code == "OHI",
-                    yes = "Other High Income Countries",
-                    region)
+rg[, pip_region := fifelse(pip_region_code == "OHI",
+                           yes = "Other High Income Countries",
+                           no  = region)
    ]
 
 
 janitor::tabyl(rg, region_code, admin_region_code)
-janitor::tabyl(rg, region, pip)
+janitor::tabyl(rg, region, pip_region)
 
 #   ____________________________________________________________________________
 #   Clean and Save                                                    ####
