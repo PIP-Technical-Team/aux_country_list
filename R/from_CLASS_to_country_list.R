@@ -110,5 +110,9 @@ varn  <- names(rg)[!names(rg) %in% c("country_code", "country_name")] |>
 
 setcolorder(rg, varn)
 
+
+#   ____________________________________________________________________________
+#   Save                                                                    ####
+
 fwrite(rg, "country_list.csv")
 
