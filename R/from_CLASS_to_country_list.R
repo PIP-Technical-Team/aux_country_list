@@ -1,13 +1,55 @@
 library(data.table)
 
+
+#   ____________________________________________________________________________
+#   Read Data from WDI                                                      ####
+
+wdi <-
+  wbstats::wb_countries()  |>
+  as.data.table() |>
+  {
+    \(.) {
+
+      # clean data
+
+      iso2 <- grep("_iso2c", names(.), value = TRUE)
+      x    <- .[, !..iso2]
+
+      iso3 <- grep("_iso3c", names(x), value = TRUE)
+
+      withiso <-
+        gsub("_iso3c", "", iso3) |>
+        paste0(collapse = "|") |>
+        grep(names(x), value = TRUE)
+
+      tokeep <- c("country", "iso3c", withiso)
+
+      x[region != "Aggregates"
+      ][,
+        ..tokeep]
+    }
+  }()
+
+
+# rename iso3c
+owdi <- names(wdi)
+nwdi <-
+  gsub("iso3c", "code", names(wdi))
+
+setnames(wdi, owdi, nwdi)
+
+
+#   ____________________________________________________________________________
+#   Read data from CLASS.dta file                                           ####
+
+
 ind <- fs::path("OutputData/CLASS.dta")
 
 byv <-
   c(
     "code",
     "region_SSA",
-    "fcv_current"
-  )
+    "fcv_current" )
 
 
 dt <- haven::read_dta(ind) |>
@@ -22,50 +64,17 @@ dt_n <- gsub("_current", "", dt_o)
 setnames(dt, dt_o, dt_n)
 setnames(dt, "region_SSA", "ewa")
 
+#   ____________________________________________________________________________
+#   Merge wdi and CLASS                                                     ####
 
-wdi <-
-  wbstats::wb_countries()  |>
-  as.data.table() |>
-  {
-    \(.) {
-
-    # clean data
-
-    iso2 <- grep("_iso2c", names(.), value = TRUE)
-    x    <- .[, !..iso2]
-
-    iso3 <- grep("_iso3c", names(x), value = TRUE)
-
-    withiso <-
-      gsub("_iso3c", "", iso3) |>
-      paste0(collapse = "|") |>
-      grep(names(x), value = TRUE)
-
-    tokeep <- c("country", "iso3c", withiso)
-
-    x[region != "Aggregates"
-      ][,
-        ..tokeep]
-    }
-    }()
-
-
-# rename iso3c
-owdi <- names(wdi)
-nwdi <-
-  gsub("iso3c", "code", names(wdi)) |>
-  {\(.) gsub("lending_type", "ida", .)}() |>
-  {\(.) gsub("income_level", "incgroup", .)}() |>
-  {\(.) gsub("admin_region", "adregion", .)}()
-
-
-setnames(wdi, owdi, nwdi)
 
 rg <-
 joyn::merge(dt, wdi,
             by = "code",
             match_type = "1:1",
             reportvar = FALSE)
+
+
 #   ____________________________________________________________________________
 #   Clean Data                                                              ####
 
@@ -73,7 +82,7 @@ joyn::merge(dt, wdi,
 
 rg[,
    ewa_code := fifelse(ewa == "",
-                       adregion_code,
+                       admin_region,
                        ewa)
    ][,
      ewa := fcase(
@@ -100,3 +109,6 @@ varn  <- names(rg)[!names(rg) %in% c("country_code", "country_name")] |>
   {\(.) c("country_code", "country_name", .)}()
 
 setcolorder(rg, varn)
+
+fwrite(rg, "country_list.csv")
+
