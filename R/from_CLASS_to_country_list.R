@@ -63,7 +63,9 @@ dt_o <- names(dt)
 dt_n <- gsub("_current", "", dt_o)
 
 setnames(dt, dt_o, dt_n)
-setnames(dt, c("region_SSA", "region_pip"), c("africa_split", "pip_region_code"))
+setnames(dt,
+         old = c("region_SSA", "region_pip"),
+         new = c("africa_split_code", "pip_region_code"))
 
 #   ____________________________________________________________________________
 #   Merge wdi and CLASS                                                     ####
@@ -79,19 +81,28 @@ joyn::merge(dt, wdi,
 #   ____________________________________________________________________________
 #   Clean Data                                                              ####
 
+# PIP region
+
+rg[, pip_region := fifelse(pip_region_code == "OHI",
+                           yes = "Other High Income Countries",
+                           no  = region)
+]
+
+
+
 # East and West Africa
 
 rg[,
-   africa_split_code := fifelse(africa_split == "",
-                       admin_region,
-                       africa_split)
+   africa_split :=  fcase(
+     africa_split_code == "", pip_region,
+     africa_split_code == "AFE", "Eastern and Southern Africa",
+     africa_split_code == "AFW", "Wetern and Central Africa",
+     default = "")
    ][,
-     africa_split := fcase(
-       africa_split == "", region,
-       africa_split == "AFE", "Eastern and Southern Africa",
-       africa_split == "AFW", "Wetern and Central Africa",
-       default = ""
-     )]
+     africa_split_code := fifelse(africa_split_code == "",
+                                  pip_region_code,
+                                  africa_split_code)
+   ]
 
 # Fragile countries
 
@@ -100,13 +111,6 @@ rg[,
    ][,
      fcv := fifelse(fcv == "Yes", "Fragile", "Not-fragile")]
 
-
-# PIP region
-
-rg[, pip_region := fifelse(pip_region_code == "OHI",
-                           yes = "Other High Income Countries",
-                           no  = region)
-   ]
 
 
 # Add PCN region temporarilly
