@@ -26,7 +26,8 @@ wdi <-
 
       x[region != "Aggregates"
       ][,
-        ..tokeep]
+        ..tokeep
+        ]
     }
   }()
 
@@ -129,16 +130,20 @@ janitor::tabyl(rg, region, pip_region)
 #   Clean and Save                                                    ####
 
 
-setnames(rg, c("code", "country"), c("country_code", "country_name") )
+rg[,
+   c( "region_code", "region") := NULL]
+
+
+setnames(x = rg,
+         old = c("code", "country", "pip_region", "pip_region_code"),
+         new = c("country_code", "country_name", "region", "region_code") )
+
 
 
 # Order columns alphabetically
-varn  <- names(rg)[!names(rg) %in% c("country_code", "country_name")] |>
-  sort() |>
-  {\(.) c("country_code", "country_name", .)}()
-
-setcolorder(rg, varn)
-
+varn <- names(rg)
+setcolorder(rg, sort(varn))
+setcolorder(rg, c("country_code", "country_name"))
 
 
 fwrite(rg, "country_list.csv")
