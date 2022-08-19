@@ -101,7 +101,7 @@ rg[,
      default = "")
    ][,
      africa_split_code := fifelse(africa_split_code == "",
-                                  pip_region_code,
+                                  paste0(pip_region_code, "-AF"),
                                   africa_split_code)
    ]
 
@@ -112,6 +112,13 @@ rg[,
    ][,
      fcv := fifelse(fcv == "Yes", "Fragile", "Not-fragile")]
 
+## Admin regions
+
+rg[,
+   admin_region_code := fifelse(
+     admin_region_code == "" | is.na(admin_region_code),
+     NA_character_,
+     paste0(admin_region_code, "-AD"))]
 
 
 # Add PCN region temporarilly
@@ -124,6 +131,7 @@ rg[,
 
 
 janitor::tabyl(rg, region_code, admin_region_code)
+janitor::tabyl(rg, region, admin_region)
 janitor::tabyl(rg, region, pip_region)
 
 #   ____________________________________________________________________________
@@ -147,4 +155,5 @@ setcolorder(rg, c("country_code", "country_name"))
 
 
 fwrite(rg, "country_list.csv")
+
 
