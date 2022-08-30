@@ -40,6 +40,11 @@ nwdi <-
 setnames(wdi, owdi, nwdi)
 
 
+# Add "(excluding high income)" to South Asia
+wdi[, admin_region  := fifelse(test = grepl("income", admin_region) | is.na(admin_region),
+                               yes  = admin_region ,
+                               no   = paste(admin_region , "(excluding high income)"))]
+
 #   ____________________________________________________________________________
 #   Read data from CLASS.dta file                                           ####
 
