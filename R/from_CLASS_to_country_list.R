@@ -95,14 +95,14 @@ rg[, pip_region := fifelse(pip_region_code == "OHI",
 
 rg[,
    africa_split :=  fcase(
-     africa_split_code == "", pip_region,
+     africa_split_code == "", "",
      africa_split_code == "AFE", "Eastern and Southern Africa",
      africa_split_code == "AFW", "Wetern and Central Africa",
      default = "")
    ][,
-     africa_split_code := fifelse(africa_split_code == "",
-                                  paste0(pip_region_code, "-AF"),
-                                  africa_split_code)
+     africa_split_code := fifelse(test = africa_split_code == "",
+                                  yes  = "",
+                                  no   =   africa_split_code)
    ]
 
 # Fragile countries
@@ -128,6 +128,20 @@ rg[,
        pcn_region = pip_region,
        pcn_region_code = pip_region_code
      )]
+
+# ff <- copy(rg)
+# rg <- copy(ff)
+
+# Convert empty strings to NA
+vars <- names(rg)
+rg[, (vars) := lapply(.SD,
+                      \(x) {
+                        fifelse(x == "" | is.na(x), NA_character_, x)
+                        }
+                      )
+   ]
+
+
 
 
 janitor::tabyl(rg, region_code, admin_region_code)
