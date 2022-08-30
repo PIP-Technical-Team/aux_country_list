@@ -139,6 +139,7 @@ rg[,
 
 # Convert empty strings to NA
 vars <- names(rg)
+names(vars) <- vars
 rg[, (vars) := lapply(.SD,
                       \(x) {
                         fifelse(x == "" | is.na(x), NA_character_, x)
@@ -147,11 +148,54 @@ rg[, (vars) := lapply(.SD,
    ]
 
 
+# fix "Not classified"
+# ff <- copy(rg)
+
+rg <- copy(ff)
+
+# not_class <- function(x) {
+#   y <- deparse(substitute(x))
+#   fifelse(test = grepl("classified", x),
+#           paste(x, "by",  y),
+#           x)
+# }
+#
+# rg[, (vars) := lapply(.SD,not_class), .SDcols = vars]
+#
+#
+# rg[, (vars) := lapply(.SD,
+#                       \(x){
+#                         y <- deparse(substitute(x))
+#                         # y <- ..x
+#                         fifelse(test = grepl("classified", x),
+#                                 paste(x, "by",  y),
+#                                 x)
+#                         })]
+#
+#
+# rg[lending_type_code == "LNX", unique(lending_type)]
+#
 
 
-janitor::tabyl(rg, region_code, admin_region_code)
-janitor::tabyl(rg, region, admin_region)
-janitor::tabyl(rg, region, pip_region)
+
+rg[, lending_type := fifelse(grepl("classified", lending_type),
+                             paste(lending_type, "by", "lending type"),
+                             lending_type)]
+
+
+
+rg[, income_level := fifelse(grepl("classified", income_level),
+                             paste(income_level, "by", "income level"),
+                             income_level)]
+
+
+
+
+
+
+# janitor::tabyl(rg, region_code, admin_region_code)
+# janitor::tabyl(rg, region, admin_region)
+# janitor::tabyl(rg, region, pip_region)
 
 #   ____________________________________________________________________________
 #   Clean and Save                                                    ####
