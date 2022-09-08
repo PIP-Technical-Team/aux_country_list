@@ -102,7 +102,7 @@ rg[,
    africa_split :=  fcase(
      africa_split_code == "", "",
      africa_split_code == "AFE", "Eastern and Southern Africa",
-     africa_split_code == "AFW", "Wetern and Central Africa",
+     africa_split_code == "AFW", "Western and Central Africa",
      default = "")
    ][,
      africa_split_code := fifelse(test = africa_split_code == "",

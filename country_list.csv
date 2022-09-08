@@ -14,8 +14,8 @@ AUT,Austria,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,
 AZE,Azerbaijan,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
 BDI,Burundi,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 BEL,Belgium,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
-BEN,Benin,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-BFA,Burkina Faso,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+BEN,Benin,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+BFA,Burkina Faso,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 BGD,Bangladesh,South Asia (excluding high income),SAS-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,South Asia,SAS,South Asia,SAS
 BGR,Bulgaria,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
 BHR,Bahrain,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
@@ -30,19 +30,19 @@ BRB,Barbados,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type
 BRN,Brunei Darussalam,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 BTN,Bhutan,South Asia (excluding high income),SAS-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,South Asia,SAS,South Asia,SAS
 BWA,Botswana,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-CAF,Central African Republic,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+CAF,Central African Republic,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 CAN,Canada,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 CHE,Switzerland,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 CHI,Channel Islands,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Europe & Central Asia,ECA,Europe & Central Asia,ECA
 CHL,Chile,,,,,Not-fragile,FCVF,High income,HIC,IBRD,IBD,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 CHN,China,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,East Asia & Pacific,EAP,East Asia & Pacific,EAP
-CIV,Cote d'Ivoire,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-CMR,Cameroon,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+CIV,Cote d'Ivoire,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+CMR,Cameroon,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 COD,"Congo, Dem. Rep.",Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-COG,"Congo, Rep.",Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+COG,"Congo, Rep.",Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 COL,Colombia,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 COM,Comoros,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-CPV,Cabo Verde,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+CPV,Cabo Verde,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 CRI,Costa Rica,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 CUB,Cuba,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,Not classified by lending type,LNX,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 CUW,Curacao,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
@@ -66,15 +66,15 @@ FJI,Fiji,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,U
 FRA,France,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 FRO,Faroe Islands,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 FSM,"Micronesia, Fed. Sts.",East Asia & Pacific (excluding high income),EAP-AD,,,Fragile,FCVT,Lower middle income,LMC,IDA,IDX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
-GAB,Gabon,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GAB,Gabon,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 GBR,United Kingdom,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 GEO,Georgia,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
-GHA,Ghana,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GHA,Ghana,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 GIB,Gibraltar,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
-GIN,Guinea,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-GMB,"Gambia, The",Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-GNB,Guinea-Bissau,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-GNQ,Equatorial Guinea,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GIN,Guinea,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GMB,"Gambia, The",Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GNB,Guinea-Bissau,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+GNQ,Equatorial Guinea,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 GRC,Greece,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 GRD,Grenada,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,Blend,IDB,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 GRL,Greenland,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
@@ -108,7 +108,7 @@ KOR,"Korea, Rep.",,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending
 KWT,Kuwait,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 LAO,Lao PDR,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 LBN,Lebanon,Middle East & North Africa (excluding high income),MNA-AD,,,Fragile,FCVT,Lower middle income,LMC,IBRD,IBD,Middle East & North Africa,MNA,Middle East & North Africa,MNA
-LBR,Liberia,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+LBR,Liberia,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 LBY,Libya,Middle East & North Africa (excluding high income),MNA-AD,,,Fragile,FCVT,Upper middle income,UMC,IBRD,IBD,Middle East & North Africa,MNA,Middle East & North Africa,MNA
 LCA,St. Lucia,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,Blend,IDB,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 LIE,Liechtenstein,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
@@ -127,21 +127,21 @@ MDV,Maldives,South Asia (excluding high income),SAS-AD,,,Not-fragile,FCVF,Upper 
 MEX,Mexico,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 MHL,Marshall Islands,East Asia & Pacific (excluding high income),EAP-AD,,,Fragile,FCVT,Upper middle income,UMC,IDA,IDX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 MKD,North Macedonia,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
-MLI,Mali,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+MLI,Mali,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 MLT,Malta,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 MMR,Myanmar,East Asia & Pacific (excluding high income),EAP-AD,,,Fragile,FCVT,Lower middle income,LMC,IDA,IDX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 MNE,Montenegro,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
 MNG,Mongolia,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IBRD,IBD,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 MNP,Northern Mariana Islands,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 MOZ,Mozambique,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-MRT,Mauritania,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+MRT,Mauritania,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 MUS,Mauritius,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 MWI,Malawi,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 MYS,Malaysia,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 NAM,Namibia,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 NCL,New Caledonia,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
-NER,Niger,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-NGA,Nigeria,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+NER,Niger,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+NGA,Nigeria,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Lower middle income,LMC,Blend,IDB,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 NIC,Nicaragua,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 NLD,Netherlands,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 NOR,Norway,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
@@ -168,10 +168,10 @@ RUS,Russian Federation,Europe & Central Asia (excluding high income),ECA-AD,,,No
 RWA,Rwanda,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 SAU,Saudi Arabia,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 SDN,Sudan,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-SEN,Senegal,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+SEN,Senegal,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 SGP,Singapore,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 SLB,Solomon Islands,East Asia & Pacific (excluding high income),EAP-AD,,,Fragile,FCVT,Lower middle income,LMC,IDA,IDX,East Asia & Pacific,EAP,East Asia & Pacific,EAP
-SLE,Sierra Leone,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+SLE,Sierra Leone,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 SLV,El Salvador,Latin America & Caribbean (excluding high income),LAC-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IBRD,IBD,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC
 SMR,San Marino,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
 SOM,Somalia,Sub-Saharan Africa (excluding high income),SSA-AD,Eastern and Southern Africa,AFE,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
@@ -187,8 +187,8 @@ SXM,Sint Maarten (Dutch part),,,,,Not-fragile,FCVF,High income,HIC,Not classifie
 SYC,Seychelles,,,Eastern and Southern Africa,AFE,Not-fragile,FCVF,High income,HIC,IBRD,IBD,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 SYR,Syrian Arab Republic,Middle East & North Africa (excluding high income),MNA-AD,,,Fragile,FCVT,Low income,LIC,IDA,IDX,Middle East & North Africa,MNA,Middle East & North Africa,MNA
 TCA,Turks and Caicos Islands,,,,,Not-fragile,FCVF,High income,HIC,Not classified by lending type,LNX,Other High Income Countries,OHI,Other High Income Countries,OHI
-TCD,Chad,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
-TGO,Togo,Sub-Saharan Africa (excluding high income),SSA-AD,Wetern and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+TCD,Chad,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Fragile,FCVT,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
+TGO,Togo,Sub-Saharan Africa (excluding high income),SSA-AD,Western and Central Africa,AFW,Not-fragile,FCVF,Low income,LIC,IDA,IDX,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA
 THA,Thailand,East Asia & Pacific (excluding high income),EAP-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,East Asia & Pacific,EAP,East Asia & Pacific,EAP
 TJK,Tajikistan,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Lower middle income,LMC,IDA,IDX,Europe & Central Asia,ECA,Europe & Central Asia,ECA
 TKM,Turkmenistan,Europe & Central Asia (excluding high income),ECA-AD,,,Not-fragile,FCVF,Upper middle income,UMC,IBRD,IBD,Europe & Central Asia,ECA,Europe & Central Asia,ECA
