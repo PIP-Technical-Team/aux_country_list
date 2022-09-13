@@ -189,7 +189,12 @@ rg[, income_level := fifelse(grepl("classified", income_level),
                              income_level)]
 
 
+# Create the World
 
+rg[, `:=`(
+    world      = "World",
+    world_code =  "WLD"
+  )]
 
 
 
@@ -211,13 +216,13 @@ setnames(x = rg,
 
 
 
-# Order columns alphabetically
+## Order columns alphabetically ------------
 varn <- names(rg)
 setcolorder(rg, sort(varn))
 setcolorder(rg, c("country_code", "country_name"))
 
 
-# Remove  categoeries that we don't need ---------
+## Remove  categoeries that we don't need ---------
 
 rm_agg <- c("fcv", "income_level", "lending_type", "admin_region")
 
@@ -227,6 +232,7 @@ to_rm <-
   c(rm_agg)
 
 rg[, (to_rm) := NULL]
+
 
 fwrite(rg, "country_list.csv")
 
