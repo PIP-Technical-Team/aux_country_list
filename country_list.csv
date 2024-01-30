@@ -1,5 +1,5 @@
 country_code,country_name,africa_split,africa_split_code,pcn_region,pcn_region_code,region,region_code,world,world_code
-ABW,Aruba,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ABW,Aruba,1,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
 AFG,Afghanistan,,,South Asia,SAS,South Asia,SAS,World,WLD
 AGO,Angola,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
 ALB,Albania,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
