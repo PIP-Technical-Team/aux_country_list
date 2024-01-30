@@ -224,8 +224,8 @@ setcolorder(rg, c("country_code", "country_name"))
 
 ## Remove  categoeries that we don't need ---------
 
-rm_agg <- c("fcv", "income_level", "lending_type", "admin_region")
 rm_agg <- c("fcv",  "lending_type", "admin_region")
+rm_agg <- c("fcv", "income_level", "lending_type", "admin_region")
 
 to_rm <-
   rm_agg |>

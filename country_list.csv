@@ -1,219 +1,219 @@
-country_code,country_name,africa_split,africa_split_code,income_level,income_level_code,pcn_region,pcn_region_code,region,region_code,world,world_code
-ABW,Aruba,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-AFG,Afghanistan,,,Low income,LIC,South Asia,SAS,South Asia,SAS,World,WLD
-AGO,Angola,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-ALB,Albania,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-AND,Andorra,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-ARE,United Arab Emirates,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-ARG,Argentina,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-ARM,Armenia,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-ASM,American Samoa,,,High income,HIC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-ATG,Antigua and Barbuda,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-AUS,Australia,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-AUT,Austria,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-AZE,Azerbaijan,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-BDI,Burundi,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-BEL,Belgium,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-BEN,Benin,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-BFA,Burkina Faso,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-BGD,Bangladesh,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-BGR,Bulgaria,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-BHR,Bahrain,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-BHS,"Bahamas, The",,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-BIH,Bosnia and Herzegovina,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-BLR,Belarus,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-BLZ,Belize,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-BMU,Bermuda,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-BOL,Bolivia,,,Lower middle income,LMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-BRA,Brazil,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-BRB,Barbados,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-BRN,Brunei Darussalam,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-BTN,Bhutan,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-BWA,Botswana,Eastern and Southern Africa,AFE,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-CAF,Central African Republic,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-CAN,Canada,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-CHE,Switzerland,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-CHI,Channel Islands,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-CHL,Chile,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-CHN,China,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-CIV,Cote d'Ivoire,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-CMR,Cameroon,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-COD,"Congo, Dem. Rep.",Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-COG,"Congo, Rep.",Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-COL,Colombia,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-COM,Comoros,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-CPV,Cabo Verde,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-CRI,Costa Rica,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-CUB,Cuba,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-CUW,Curacao,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-CYM,Cayman Islands,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-CYP,Cyprus,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-CZE,Czechia,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-DEU,Germany,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-DJI,Djibouti,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-DMA,Dominica,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-DNK,Denmark,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-DOM,Dominican Republic,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-DZA,Algeria,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-ECU,Ecuador,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-EGY,"Egypt, Arab Rep.",,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-ERI,Eritrea,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-ESP,Spain,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-EST,Estonia,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-ETH,Ethiopia,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-FIN,Finland,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-FJI,Fiji,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-FRA,France,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-FRO,Faroe Islands,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-FSM,"Micronesia, Fed. Sts.",,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-GAB,Gabon,Western and Central Africa,AFW,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GBR,United Kingdom,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-GEO,Georgia,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-GHA,Ghana,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GIB,Gibraltar,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-GIN,Guinea,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GMB,"Gambia, The",Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GNB,Guinea-Bissau,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GNQ,Equatorial Guinea,Western and Central Africa,AFW,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-GRC,Greece,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-GRD,Grenada,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-GRL,Greenland,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-GTM,Guatemala,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-GUM,Guam,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-GUY,Guyana,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-HKG,"Hong Kong SAR, China",,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-HND,Honduras,,,Lower middle income,LMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-HRV,Croatia,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-HTI,Haiti,,,Lower middle income,LMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-HUN,Hungary,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-IDN,Indonesia,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-IMN,Isle of Man,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-IND,India,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-IRL,Ireland,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-IRN,"Iran, Islamic Rep.",,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-IRQ,Iraq,,,Upper middle income,UMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-ISL,Iceland,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-ISR,Israel,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-ITA,Italy,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-JAM,Jamaica,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-JOR,Jordan,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-JPN,Japan,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-KAZ,Kazakhstan,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-KEN,Kenya,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-KGZ,Kyrgyz Republic,,,Lower middle income,LMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-KHM,Cambodia,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-KIR,Kiribati,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-KNA,St. Kitts and Nevis,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-KOR,"Korea, Rep.",,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-KWT,Kuwait,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-LAO,Lao PDR,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-LBN,Lebanon,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-LBR,Liberia,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-LBY,Libya,,,Upper middle income,UMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-LCA,St. Lucia,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-LIE,Liechtenstein,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-LKA,Sri Lanka,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-LSO,Lesotho,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-LTU,Lithuania,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-LUX,Luxembourg,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-LVA,Latvia,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-MAC,"Macao SAR, China",,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-MAF,St. Martin (French part),,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-MAR,Morocco,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-MCO,Monaco,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-MDA,Moldova,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-MDG,Madagascar,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MDV,Maldives,,,Upper middle income,UMC,South Asia,SAS,South Asia,SAS,World,WLD
-MEX,Mexico,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-MHL,Marshall Islands,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-MKD,North Macedonia,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-MLI,Mali,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MLT,Malta,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-MMR,Myanmar,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-MNE,Montenegro,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-MNG,Mongolia,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-MNP,Northern Mariana Islands,,,High income,HIC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-MOZ,Mozambique,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MRT,Mauritania,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MUS,Mauritius,Eastern and Southern Africa,AFE,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MWI,Malawi,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-MYS,Malaysia,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-NAM,Namibia,Eastern and Southern Africa,AFE,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-NCL,New Caledonia,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-NER,Niger,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-NGA,Nigeria,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-NIC,Nicaragua,,,Lower middle income,LMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-NLD,Netherlands,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-NOR,Norway,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-NPL,Nepal,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-NRU,Nauru,,,High income,HIC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-NZL,New Zealand,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-OMN,Oman,,,High income,HIC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-PAK,Pakistan,,,Lower middle income,LMC,South Asia,SAS,South Asia,SAS,World,WLD
-PAN,Panama,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-PER,Peru,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-PHL,Philippines,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-PLW,Palau,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-PNG,Papua New Guinea,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-POL,Poland,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-PRI,Puerto Rico,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-PRK,"Korea, Dem. People's Rep.",,,Low income,LIC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-PRT,Portugal,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-PRY,Paraguay,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-PSE,West Bank and Gaza,,,Upper middle income,UMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-PYF,French Polynesia,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-QAT,Qatar,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-ROU,Romania,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-RUS,Russian Federation,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-RWA,Rwanda,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SAU,Saudi Arabia,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-SDN,Sudan,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SEN,Senegal,Western and Central Africa,AFW,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SGP,Singapore,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-SLB,Solomon Islands,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-SLE,Sierra Leone,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SLV,El Salvador,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-SMR,San Marino,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-SOM,Somalia,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SRB,Serbia,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-SSD,South Sudan,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-STP,Sao Tome and Principe,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SUR,Suriname,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-SVK,Slovak Republic,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-SVN,Slovenia,,,High income,HIC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-SWE,Sweden,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-SWZ,Eswatini,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SXM,Sint Maarten (Dutch part),,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-SYC,Seychelles,Eastern and Southern Africa,AFE,High income,HIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-SYR,Syrian Arab Republic,,,Low income,LIC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-TCA,Turks and Caicos Islands,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-TCD,Chad,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-TGO,Togo,Western and Central Africa,AFW,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-THA,Thailand,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-TJK,Tajikistan,,,Lower middle income,LMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-TKM,Turkmenistan,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-TLS,Timor-Leste,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-TON,Tonga,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-TTO,Trinidad and Tobago,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-TUN,Tunisia,,,Lower middle income,LMC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-TUR,Turkiye,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-TUV,Tuvalu,,,Upper middle income,UMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-TWN,,,,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-TZA,Tanzania,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-UGA,Uganda,Eastern and Southern Africa,AFE,Low income,LIC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-UKR,Ukraine,,,Lower middle income,LMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-URY,Uruguay,,,High income,HIC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-USA,United States,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-UZB,Uzbekistan,,,Lower middle income,LMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-VCT,St. Vincent and the Grenadines,,,Upper middle income,UMC,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-VEN,"Venezuela, RB",,,Not classified by income level,INX,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
-VGB,British Virgin Islands,,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-VIR,Virgin Islands (U.S.),,,High income,HIC,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
-VNM,Viet Nam,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-VUT,Vanuatu,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-WSM,Samoa,,,Lower middle income,LMC,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
-XKX,Kosovo,,,Upper middle income,UMC,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
-YEM,"Yemen, Rep.",,,Low income,LIC,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
-ZAF,South Africa,Eastern and Southern Africa,AFE,Upper middle income,UMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-ZMB,Zambia,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
-ZWE,Zimbabwe,Eastern and Southern Africa,AFE,Lower middle income,LMC,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+country_code,country_name,africa_split,africa_split_code,pcn_region,pcn_region_code,region,region_code,world,world_code
+ABW,Aruba,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+AFG,Afghanistan,,,South Asia,SAS,South Asia,SAS,World,WLD
+AGO,Angola,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+ALB,Albania,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+AND,Andorra,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ARE,United Arab Emirates,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ARG,Argentina,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+ARM,Armenia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+ASM,American Samoa,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+ATG,Antigua and Barbuda,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+AUS,Australia,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+AUT,Austria,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+AZE,Azerbaijan,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+BDI,Burundi,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+BEL,Belgium,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+BEN,Benin,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+BFA,Burkina Faso,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+BGD,Bangladesh,,,South Asia,SAS,South Asia,SAS,World,WLD
+BGR,Bulgaria,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+BHR,Bahrain,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+BHS,"Bahamas, The",,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+BIH,Bosnia and Herzegovina,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+BLR,Belarus,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+BLZ,Belize,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+BMU,Bermuda,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+BOL,Bolivia,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+BRA,Brazil,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+BRB,Barbados,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+BRN,Brunei Darussalam,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+BTN,Bhutan,,,South Asia,SAS,South Asia,SAS,World,WLD
+BWA,Botswana,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+CAF,Central African Republic,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+CAN,Canada,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+CHE,Switzerland,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+CHI,Channel Islands,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+CHL,Chile,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+CHN,China,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+CIV,Cote d'Ivoire,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+CMR,Cameroon,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+COD,"Congo, Dem. Rep.",Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+COG,"Congo, Rep.",Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+COL,Colombia,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+COM,Comoros,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+CPV,Cabo Verde,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+CRI,Costa Rica,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+CUB,Cuba,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+CUW,Curacao,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+CYM,Cayman Islands,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+CYP,Cyprus,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+CZE,Czechia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+DEU,Germany,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+DJI,Djibouti,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+DMA,Dominica,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+DNK,Denmark,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+DOM,Dominican Republic,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+DZA,Algeria,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+ECU,Ecuador,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+EGY,"Egypt, Arab Rep.",,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+ERI,Eritrea,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+ESP,Spain,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+EST,Estonia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+ETH,Ethiopia,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+FIN,Finland,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+FJI,Fiji,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+FRA,France,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+FRO,Faroe Islands,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+FSM,"Micronesia, Fed. Sts.",,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+GAB,Gabon,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GBR,United Kingdom,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+GEO,Georgia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+GHA,Ghana,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GIB,Gibraltar,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+GIN,Guinea,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GMB,"Gambia, The",Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GNB,Guinea-Bissau,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GNQ,Equatorial Guinea,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+GRC,Greece,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+GRD,Grenada,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+GRL,Greenland,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+GTM,Guatemala,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+GUM,Guam,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+GUY,Guyana,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+HKG,"Hong Kong SAR, China",,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+HND,Honduras,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+HRV,Croatia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+HTI,Haiti,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+HUN,Hungary,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+IDN,Indonesia,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+IMN,Isle of Man,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+IND,India,,,South Asia,SAS,South Asia,SAS,World,WLD
+IRL,Ireland,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+IRN,"Iran, Islamic Rep.",,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+IRQ,Iraq,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+ISL,Iceland,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ISR,Israel,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ITA,Italy,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+JAM,Jamaica,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+JOR,Jordan,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+JPN,Japan,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+KAZ,Kazakhstan,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+KEN,Kenya,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+KGZ,Kyrgyz Republic,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+KHM,Cambodia,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+KIR,Kiribati,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+KNA,St. Kitts and Nevis,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+KOR,"Korea, Rep.",,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+KWT,Kuwait,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+LAO,Lao PDR,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+LBN,Lebanon,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+LBR,Liberia,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+LBY,Libya,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+LCA,St. Lucia,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+LIE,Liechtenstein,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+LKA,Sri Lanka,,,South Asia,SAS,South Asia,SAS,World,WLD
+LSO,Lesotho,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+LTU,Lithuania,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+LUX,Luxembourg,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+LVA,Latvia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+MAC,"Macao SAR, China",,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+MAF,St. Martin (French part),,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+MAR,Morocco,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+MCO,Monaco,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+MDA,Moldova,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+MDG,Madagascar,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MDV,Maldives,,,South Asia,SAS,South Asia,SAS,World,WLD
+MEX,Mexico,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+MHL,Marshall Islands,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+MKD,North Macedonia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+MLI,Mali,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MLT,Malta,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+MMR,Myanmar,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+MNE,Montenegro,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+MNG,Mongolia,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+MNP,Northern Mariana Islands,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+MOZ,Mozambique,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MRT,Mauritania,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MUS,Mauritius,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MWI,Malawi,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+MYS,Malaysia,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+NAM,Namibia,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+NCL,New Caledonia,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+NER,Niger,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+NGA,Nigeria,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+NIC,Nicaragua,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+NLD,Netherlands,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+NOR,Norway,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+NPL,Nepal,,,South Asia,SAS,South Asia,SAS,World,WLD
+NRU,Nauru,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+NZL,New Zealand,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+OMN,Oman,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+PAK,Pakistan,,,South Asia,SAS,South Asia,SAS,World,WLD
+PAN,Panama,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+PER,Peru,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+PHL,Philippines,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+PLW,Palau,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+PNG,Papua New Guinea,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+POL,Poland,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+PRI,Puerto Rico,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+PRK,"Korea, Dem. People's Rep.",,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+PRT,Portugal,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+PRY,Paraguay,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+PSE,West Bank and Gaza,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+PYF,French Polynesia,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+QAT,Qatar,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+ROU,Romania,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+RUS,Russian Federation,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+RWA,Rwanda,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SAU,Saudi Arabia,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+SDN,Sudan,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SEN,Senegal,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SGP,Singapore,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+SLB,Solomon Islands,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+SLE,Sierra Leone,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SLV,El Salvador,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+SMR,San Marino,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+SOM,Somalia,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SRB,Serbia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+SSD,South Sudan,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+STP,Sao Tome and Principe,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SUR,Suriname,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+SVK,Slovak Republic,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+SVN,Slovenia,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+SWE,Sweden,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+SWZ,Eswatini,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SXM,Sint Maarten (Dutch part),,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+SYC,Seychelles,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+SYR,Syrian Arab Republic,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+TCA,Turks and Caicos Islands,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+TCD,Chad,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+TGO,Togo,Western and Central Africa,AFW,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+THA,Thailand,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+TJK,Tajikistan,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+TKM,Turkmenistan,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+TLS,Timor-Leste,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+TON,Tonga,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+TTO,Trinidad and Tobago,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+TUN,Tunisia,,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+TUR,Turkiye,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+TUV,Tuvalu,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+TWN,,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+TZA,Tanzania,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+UGA,Uganda,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+UKR,Ukraine,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+URY,Uruguay,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+USA,United States,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+UZB,Uzbekistan,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+VCT,St. Vincent and the Grenadines,,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+VEN,"Venezuela, RB",,,Latin America & Caribbean,LAC,Latin America & Caribbean,LAC,World,WLD
+VGB,British Virgin Islands,,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+VIR,Virgin Islands (U.S.),,,Other High Income Countries,OHI,Other High Income Countries,OHI,World,WLD
+VNM,Viet Nam,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+VUT,Vanuatu,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+WSM,Samoa,,,East Asia & Pacific,EAP,East Asia & Pacific,EAP,World,WLD
+XKX,Kosovo,,,Europe & Central Asia,ECA,Europe & Central Asia,ECA,World,WLD
+YEM,"Yemen, Rep.",,,Middle East & North Africa,MNA,Middle East & North Africa,MNA,World,WLD
+ZAF,South Africa,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+ZMB,Zambia,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
+ZWE,Zimbabwe,Eastern and Southern Africa,AFE,Sub-Saharan Africa,SSA,Sub-Saharan Africa,SSA,World,WLD
