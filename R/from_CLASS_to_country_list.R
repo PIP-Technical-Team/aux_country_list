@@ -78,7 +78,7 @@ setnames(dt,
 
 
 rg <-
-joyn::merge(dt, wdi,
+joyn::joyn(dt, wdi,
             by = "code",
             match_type = "1:1",
             reportvar = FALSE)
