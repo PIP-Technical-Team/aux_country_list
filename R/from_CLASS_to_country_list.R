@@ -216,7 +216,7 @@ rg[, `:=`(
 
 
 rg[,
-   c( "pip_region", "pip_region_code") := NULL]
+   c( "pip_region", "pip_region_code") := .(region, region_code)]
 
 
 setnames(x = rg,
