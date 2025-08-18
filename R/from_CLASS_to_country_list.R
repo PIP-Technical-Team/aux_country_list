@@ -1,4 +1,4 @@
-library(data.table)
+library(fastverse)
 
 
 #   ____________________________________________________________________________
@@ -58,18 +58,20 @@ wdi[, admin_region  := fifelse(test = grepl("income", admin_region) | is.na(admi
 ind <- fs::path("OutputData/CLASS.dta")
 ind <- "https://github.com/GPID-WB/Class/raw/refs/heads/master/OutputData/CLASS.dta"
 
-byv <-
-  c(
-    "code",
-    "region_SSA",
-    "fcv_current",
-    "region_pip")
 
 
 dt <- haven::read_dta(ind) |>
-  as.data.table() |>
-  unique(by = byv) |>
-  (\(.){.[, ..byv]})()  # select just these variables
+  as.data.table()
+
+# collapse table to unique identifiers by country, NOT by country/year
+rm_names <- grep("year|historical", names(dt), value = TRUE)
+
+dt <- dt[, (rm_names) := NULL] |>
+  unique()
+
+dt[code == "SOM",
+    economy := "Federal Republic of Somalia"]
+
 
 
 dt_o <- names(dt)
@@ -239,7 +241,10 @@ to_rm <-
   paste0("_code") |>
   c(rm_agg)
 
-rg[, (to_rm) := NULL]
+# let'st not remove now
+# rg[, (to_rm) := NULL]
+
+rg[, economy := NULL]
 
 
 fwrite(rg, "country_list.csv")
