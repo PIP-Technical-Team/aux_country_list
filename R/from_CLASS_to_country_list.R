@@ -98,10 +98,10 @@ joyn::joyn(dt, wdi,
 
 # PIP region
 
-rg[, pip_region := fifelse(pip_region_code == "OHI",
-                           yes = "Other High Income Countries",
-                           no  = region)
-]
+rg[,
+   pip_region := region
+   ][pip_region_code == "OHI",
+   pip_region := "Other High Income Countries"]
 
 
 
@@ -216,12 +216,12 @@ rg[, `:=`(
 
 
 rg[,
-   c( "region_code", "region") := NULL]
+   c( "pip_region", "pip_region_code") := NULL]
 
 
 setnames(x = rg,
-         old = c("code", "country", "pip_region", "pip_region_code"),
-         new = c("country_code", "country_name", "region", "region_code") )
+         old = c("code", "country" ),
+         new = c("country_code", "country_name") )
 
 
 
