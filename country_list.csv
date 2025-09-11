@@ -48,7 +48,7 @@ ZAF,South Africa,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Not-frag
 ZMB,Zambia,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
 ZWE,Zimbabwe,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Fragile,FCVY,Blend,BLND,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
 ABW,Aruba,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-AFG,Afghanistan,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,FCVY,IDA,IDA,Low income,LIC,South Asia,SAS,World,WLD
+AFG,Afghanistan,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,FCVY,IDA,IDA,Low income,LIC,South Asia,SAR,World,WLD
 ALB,Albania,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
 AND,Andorra,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 ARE,United Arab Emirates,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
@@ -60,7 +60,7 @@ AUS,Australia,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,Rest of the world,R
 AUT,Austria,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 AZE,Azerbaijan,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
 BEL,Belgium,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-BGD,Bangladesh,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAS,World,WLD
+BGD,Bangladesh,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAR,World,WLD
 BGR,Bulgaria,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,High income,HIC,Europe & Central Asia,ECA,World,WLD
 BHR,Bahrain,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 BHS,Bahamas, The,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
@@ -72,7 +72,7 @@ BOL,Bolivia,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Lower
 BRA,Brazil,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Latin America & Caribbean,LAC,World,WLD
 BRB,Barbados,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,High income,HIC,Latin America & Caribbean,LAC,World,WLD
 BRN,Brunei Darussalam,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-BTN,Bhutan,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAS,World,WLD
+BTN,Bhutan,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAR,World,WLD
 CAN,Canada,North America,NAC,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 CHE,Switzerland,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 CHI,Channel Islands,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Europe & Central Asia,ECA,World,WLD
@@ -116,7 +116,7 @@ HTI,Haiti,Latin America & Caribbean,LCN,NA,NA,Fragile,FCVY,IDA,IDA,Lower middle 
 HUN,Hungary,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Europe & Central Asia,ECA,World,WLD
 IDN,Indonesia,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,East Asia & Pacific,EAP,World,WLD
 IMN,Isle of Man,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-IND,India,South Asia,SAS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Lower middle income,LMIC,South Asia,SAS,World,WLD
+IND,India,South Asia,SAS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Lower middle income,LMIC,South Asia,SAR,World,WLD
 IRL,Ireland,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 IRN,Iran, Islamic Rep.,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Middle East & North Africa,MNA,World,WLD
 IRQ,Iraq,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,FCVY,IBRD,IBRD,Upper middle income,UMIC,Middle East & North Africa,MNA,World,WLD
@@ -138,7 +138,7 @@ LBN,Lebanon,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,
 LBY,Libya,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,FCVY,IBRD,IBRD,Upper middle income,UMIC,Middle East & North Africa,MNA,World,WLD
 LCA,St. Lucia,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Blend,BLND,Upper middle income,UMIC,Latin America & Caribbean,LAC,World,WLD
 LIE,Liechtenstein,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-LKA,Sri Lanka,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAS,World,WLD
+LKA,Sri Lanka,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAR,World,WLD
 LTU,Lithuania,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Europe & Central Asia,ECA,World,WLD
 LUX,Luxembourg,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 LVA,Latvia,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Europe & Central Asia,ECA,World,WLD
@@ -147,7 +147,7 @@ MAF,St. Martin (French part),Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCV
 MAR,Morocco,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Lower middle income,LMIC,Middle East & North Africa,MNA,World,WLD
 MCO,Monaco,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 MDA,Moldova,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
-MDV,Maldives,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Upper middle income,UMIC,South Asia,SAS,World,WLD
+MDV,Maldives,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Upper middle income,UMIC,South Asia,SAR,World,WLD
 MEX,Mexico,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Latin America & Caribbean,LAC,World,WLD
 MHL,Marshall Islands,East Asia & Pacific,EAS,NA,NA,Fragile,FCVY,IDA,IDA,Upper middle income,UMIC,East Asia & Pacific,EAP,World,WLD
 MKD,North Macedonia,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
@@ -161,11 +161,11 @@ NCL,New Caledonia,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,Rest of the wor
 NIC,Nicaragua,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,Latin America & Caribbean,LAC,World,WLD
 NLD,Netherlands,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 NOR,Norway,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-NPL,Nepal,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAS,World,WLD
+NPL,Nepal,South Asia,SAS,NA,NA,Not-fragile,FCVN,IDA,IDA,Lower middle income,LMIC,South Asia,SAR,World,WLD
 NRU,Nauru,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,High income,HIC,East Asia & Pacific,EAP,World,WLD
 NZL,New Zealand,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 OMN,Oman,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Middle East & North Africa,MNA,World,WLD
-PAK,Pakistan,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,Blend,BLND,Lower middle income,LMIC,South Asia,SAS,World,WLD
+PAK,Pakistan,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Not-fragile,FCVN,Blend,BLND,Lower middle income,LMIC,South Asia,SAR,World,WLD
 PAN,Panama,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,High income,HIC,Latin America & Caribbean,LAC,World,WLD
 PER,Peru,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Latin America & Caribbean,LAC,World,WLD
 PHL,Philippines,East Asia & Pacific,EAS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Lower middle income,LMIC,East Asia & Pacific,EAP,World,WLD
