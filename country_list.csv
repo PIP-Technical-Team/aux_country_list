@@ -1,8 +1,8 @@
 country_code,country_name,region,region_code,africa_split,africa_split_code,fcv,fcv_code,ida,ida_code,incgroup,incgroup_code,regionpcn,regionpcn_code,world,world_code
-CIV,Côte d'Ivoire,Sub-Saharan Africa,SSF,Western and Central Africa,AFW,Not-fragile,FCVN,Blend,BLND,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
-CUW,Curaçao,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
-STP,São Tomé and Príncipe,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Fragile,FCVY,IDA,IDA,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
-TUR,Türkiye,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
+CIV,CÃ´te d'Ivoire,Sub-Saharan Africa,SSF,Western and Central Africa,AFW,Not-fragile,FCVN,Blend,BLND,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
+CUW,CuraÃ§ao,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
+STP,SÃ£o TomÃ© and PrÃ­ncipe,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Fragile,FCVY,IDA,IDA,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
+TUR,TÃ¼rkiye,Europe & Central Asia,ECS,NA,NA,Not-fragile,FCVN,IBRD,IBRD,Upper middle income,UMIC,Europe & Central Asia,ECA,World,WLD
 ABW,Aruba,Latin America & Caribbean,LCN,NA,NA,Not-fragile,FCVN,Rest of the world,REST,High income,HIC,Other High Income Countries,OHI,World,WLD
 AFG,Afghanistan,Middle East, North Africa, Afghanistan & Pakistan,MEA,NA,NA,Fragile,FCVY,IDA,IDA,Low income,LIC,South Asia,SAR,World,WLD
 AGO,Angola,Sub-Saharan Africa,SSF,Eastern and Southern Africa,AFE,Not-fragile,FCVN,IBRD,IBRD,Lower middle income,LMIC,Sub-Saharan Africa,SSA,World,WLD
